@@ -32,6 +32,10 @@ The database schema includes the following tables:
 - `playlists`: Information about playlists created in the store.
 - `playlist_track`: Relationship between playlists and tracks.
 
+
+## Schema img
+<img width="180" alt="06 11 2023_00 31 07_REC" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
+
 ## Installation
 
 1. Clone this repository:
