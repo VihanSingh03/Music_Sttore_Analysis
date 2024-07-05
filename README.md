@@ -7,11 +7,7 @@ Welcome to the **Music Store Analysis** project! This repository contains SQL sc
 - [Project Description](#project-description)
 - [Database Schema](#database-schema)
 - [Schema Image](#Schema_img)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Analysis](#analysis)
-- [Contributing](#contributing)
-- [License](#license)
+- [Questions](#Questions)
 
 ## Project Description
 
@@ -38,10 +34,6 @@ The database schema includes the following tables:
 <img width="100" height="100" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
 
 ##Questions
-<img width="100" height="100" alt="scm_img" src="[https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png](https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/Music_Store_Analysis_Questions.png)">
+<img width="100" height="100" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/Music_Store_Analysis_Questions.png">
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/music_store_analysis.git
