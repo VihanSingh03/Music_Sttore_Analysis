@@ -32,10 +32,10 @@ The database schema includes the following tables:
 
 ## Schema_img
 
-<img width="100%" height="100%" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
+<img width="50%" height="50%" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
 
-##Questions
+## Questions
 
-<img width="100%" height="100%" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/Music_Store_Analysis_Questions.png">
+<img width="50%" height="50%" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/Music_Store_Analysis_Questions.png">
 
 
