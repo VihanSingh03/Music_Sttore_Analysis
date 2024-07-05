@@ -6,6 +6,7 @@ Welcome to the **Music Store Analysis** project! This repository contains SQL sc
 
 - [Project Description](#project-description)
 - [Database Schema](#database-schema)
+- [Schema Image](#Schema_img)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Analysis](#analysis)
@@ -33,8 +34,11 @@ The database schema includes the following tables:
 - `playlist_track`: Relationship between playlists and tracks.
 
 
-## Schema img
-<img width="180" alt="06 11 2023_00 31 07_REC" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
+## Schema_img
+<img width="100" height="100" alt="scm_img" src="https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png">
+
+##Questions
+<img width="100" height="100" alt="scm_img" src="[https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/MusicDatabaseSchema.png](https://github.com/VihanSingh03/Music_Sttore_Analysis/blob/main/Music_Store_Analysis_Questions.png)">
 
 ## Installation
 
