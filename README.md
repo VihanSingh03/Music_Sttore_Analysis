@@ -14,8 +14,10 @@ Welcome to the **Music Store Analysis** project! This repository contains SQL sc
 In this project, I have used SQL to analyze a music store's database. The analysis covers various aspects such as sales, customer behavior, and inventory management. The SQL scripts included in this repository address specific business questions and provide insights that can help in making informed decisions.
 
 ## Database and Tools
--[Postgre SQL]
--[PgAdmin4]
+
+
+- [Postgre SQL]
+- [PgAdmin4]
 
 ## Database Schema
 
